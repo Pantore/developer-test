@@ -1,4 +1,4 @@
-# Teste técnico Backend 🏔️🏞️
+# Teste técnico Backend 🏔️
 
 ## O desafio
 

@@ -1,3 +1,3 @@
-# Teste técnico Frontend ️🏞️
+# Teste técnico Frontend 🏞️
 
 ...
