@@ -11,6 +11,7 @@ O desafio consiste em criar uma aplicação capaz de:
 - filtrar tarefas já completas
 - implementar o suporte a criação de tarefas seguindo o paradigma offline-first (https://blog.rocketseat.com.br/offline-first-react-native/)
 - implementar o upload de arquivos na tarefa
+- ver o arquivo carregado na tarefa
 - quaisquer funcionalidades extras serão consideradas um diferencial no critério de seleção
 
 ## Estrutura dos campos
