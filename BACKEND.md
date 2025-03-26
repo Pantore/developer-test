@@ -1,6 +1,6 @@
 # Teste técnico Backend 🏔️
 
-## O desafio
+## Objetivo
 O objetivo do teste técnico para um desenvolvedor backend é avaliar suas habilidades em:
 - arquitetura de software
 - estruturação de APIs
@@ -9,7 +9,7 @@ O objetivo do teste técnico para um desenvolvedor backend é avaliar suas habil
 - compreensão de algoritmos
 - e boas práticas de desenvolvimento.
 
-Além disso, o objetivo do teste é verificar a capacidade de resolução de problemas com padrões de segurança e escalabilidade. Então, por mais que o desafio seja resolver um problema simples, aproveite a oportunidade para demonstrar a sua senioridade, utilizando técnicas de design patterns orientadas a escalabilidade, resiliência e robustez.
+Além disso, o objetivo do teste é verificar a capacidade de resolução de problemas com padrões de segurança e escalabilidade. Então, por mais que o desafio seja resolver um problema simples, aproveite a oportunidade para demonstrar a sua senioridade, utilizando técnicas de design patterns orientadas a manutenabilidade, resiliência e robustez.
 
 ## O desafio
 
