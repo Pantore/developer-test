@@ -1,6 +1,17 @@
 # Teste técnico Backend 🏔️
 
 ## O desafio
+O objetivo do teste técnico para um desenvolvedor backend é avaliar suas habilidades em:
+- arquitetura de software
+- estruturação de APIs
+- modelagem de banco de dados
+- eficiência na escrita de código
+- compreensão de algoritmos
+- e boas práticas de desenvolvimento.
+
+Além disso, o objetivo do teste é verificar a capacidade de resolução de problemas com padrões de segurança e escalabilidade. Então, por mais que o desafio seja resolver um problema simples, aproveite a oportunidade para demonstrar a sua senioridade, utilizando técnicas de design patterns orientadas a escalabilidade, resiliência e robustez.
+
+## O desafio
 
 O desafio consiste em criar uma aplicação capaz de:
 - criar um usuário na base de dados
@@ -29,19 +40,21 @@ O usuário deverá ter os seguintes campos:
 - Funcionalidades completas
 - Código limpo, modularidade, legibilidade e organização
 - Documentação de código
+- Arquitetura padronizada (clean architecture, ou onion architecture, etc...)
+- Escalabilidade
+- Performance
+- Testes automatizados
 
 ## Bônus
 
 Os itens abaixo não são obrigatórios, mas podem ser considerados como critérios de desempate:
 - Colocar sistema online na nuvem
-- Performance
-- Testes automatizados
 - Utilização de sintaxes mais recentes do javascript
 - Utilização de typescript
 
 ## Entrega
 
-Ao finalizar o projeto, copie o link do repositório Git e avise nosso time sobre a conclusão do projeto.
+Ao finalizar o projeto, envio o link do repositório Git e avise nosso time sobre a conclusão do projeto.
 
 Qualquer dúvida entre em contato:
 renan@pantore.com.br
