@@ -31,7 +31,7 @@ O usuário deverá ter os seguintes campos:
 
 ## Tecnologias
 
-- para a construção da API, poderão ser utilizadas frameworks como express, koa, nestjs, etc.
+- para a construção da API, poderão ser utilizadas frameworks como express, koa, fastify, etc. (não utilize frameworks opinativos, como nestjs, adonisjs, etc.)
 - a base de dados poderá ser construída em mysql, mongodb, postgresql, sqlite ou outro banco de dados conhecido no mercado
 - é permitido a utilização de ORMs
 
@@ -40,7 +40,7 @@ O usuário deverá ter os seguintes campos:
 - Funcionalidades completas
 - Código limpo, modularidade, legibilidade e organização
 - Documentação de código
-- Arquitetura padronizada (clean architecture, ou onion architecture, etc...)
+- Arquitetura padronizada (Domain-Driven Design, Clean architecture, Hexagonal architecture, ou Onion architecture, etc.)
 - Escalabilidade
 - Performance
 - Testes automatizados
@@ -48,13 +48,15 @@ O usuário deverá ter os seguintes campos:
 ## Bônus
 
 Os itens abaixo não são obrigatórios, mas podem ser considerados como critérios de desempate:
-- Colocar sistema online na nuvem
-- Utilização de sintaxes mais recentes do javascript
+- Implementar sistema online na nuvem (hospedar)
+- Utilização de sintaxes mais recentes do javascript (ECMAScript 2024)
 - Utilização de typescript
 
 ## Entrega
 
-Ao finalizar o projeto, envio o link do repositório Git e avise nosso time sobre a conclusão do projeto.
+Ao finalizar o projeto, convide o usuário @renanpupin para seu repositório e avise nosso time sobre a conclusão do projeto.
+
+* Não disponibilize seu projeto público.
 
 Qualquer dúvida entre em contato:
 renan@pantore.com.br
